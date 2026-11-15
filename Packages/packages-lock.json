@@ -361,6 +361,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "dev.blizz606.unity-hackatime": {
+      "version": "https://github.com/Blizz606/Hackatime-Unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "fd24a1a99d196cd5f6daaf8082b1afa74908d6a8"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
