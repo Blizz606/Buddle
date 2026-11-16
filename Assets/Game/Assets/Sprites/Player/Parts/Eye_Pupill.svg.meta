@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8890001b00dddbf4ba493145644b13bb
+guid: b582d2ef9693c05469b96c0d036b4647
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,7 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 12408, guid: 0000000000000000e000000000000000, type: 0}
-  svgType: 1
+  svgType: 0
   texturedSpriteMeshType: 0
   svgPixelsPerUnit: 100
   gradientResolution: 64
@@ -18,7 +18,7 @@ ScriptedImporter:
   viewportOptions: 0
   preserveViewport: 0
   advancedMode: 0
-  tessellationMode: 1
+  tessellationMode: 0
   predefinedResolutionIndex: 1
   targetResolution: 1080
   resolutionMultiplier: 1
@@ -29,17 +29,17 @@ ScriptedImporter:
   maxTangentAngleEnabled: 0
   maxTangentAngle: 5
   keepTextureAspectRatio: 1
-  textureSize: 1024
+  textureSize: 1028
   textureWidth: 256
   textureHeight: 256
-  wrapMode: 1
+  wrapMode: 0
   filterMode: 1
   sampleCount: 8
   preserveSVGImageAspect: 0
   useSVGPixelsPerUnit: 0
   spriteData:
     TessellationDetail: 0
-    SpriteName: Eye_Pupill
+    SpriteName: Eye_PupillSprite
     SpritePivot: {x: 0.5, y: 0.5}
     SpriteAlignment: 0
     SpriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -47,7 +47,7 @@ ScriptedImporter:
       serializedVersion: 2
       x: 0
       y: 0
-      width: 727
-      height: 1024
-    SpriteID: e34fc2088980f264fa70ba866ca66ba7
+      width: 20
+      height: 41
+    SpriteID: e2da81745822c6146bda1e3656926c4e
     PhysicsOutlines: []
