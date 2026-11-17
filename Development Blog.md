@@ -12,3 +12,9 @@ Today I made my first character in Figma. I wanted to start with a simple and fr
 
 ## (16. November) Redesign of the Art
 Today I redesigned the assets/art in figma. I want the walk aniamtion to acutually look like walking, that's why I added Legs. I still have some problems with the svg colours in unity. But this right here are the new assets. ![The new Assets](Documentation/Screenshots/Screenshot 2026-11-16 214019.png)
+
+## (17. November) 
+1. Implemented new Characters in Unity
+2. Started Designing the Main Menu UI (as in screenshot) 
+
+![Main Menu](Documentation/Screenshots/MainMenu.png)
