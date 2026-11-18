@@ -22,5 +22,5 @@ Today I redesigned the assets/art in figma. I want the walk aniamtion to acutual
 ## (18. November) 
 1. Redesigned Main Menu to look more joyful, and yeah i know that the actuall level isnt as smooth, but it just lokks soooooooo gooood. He is a quick glampse. I will relase the Figma File too (When i forget it you can just contact me). It's only deisgned and not ready in Game, thats what i want to do now. Wish me Luck.
 2. I now implemented it into Unity, the only thing that's missing are the eyes of the characters and the empty Button. I wnat the eyes to sort of follow the cursor, but i need to figure out how, because the range they can move needs to be closed, I think about using like a Empty GO for setting the area, but idk yet.
-   
+3. Added The Character Eyes that follow the cursor. Script was written by AI, because it's just a raw test script, i need to simplify it and make it smoother.
 ![Main Menu Redesign](Documentation/Screenshots/Buddle_Main_Menu%20Mockup.png)
