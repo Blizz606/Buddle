@@ -24,3 +24,6 @@ Today I redesigned the assets/art in figma. I want the walk aniamtion to acutual
 2. I now implemented it into Unity, the only thing that's missing are the eyes of the characters and the empty Button. I wnat the eyes to sort of follow the cursor, but i need to figure out how, because the range they can move needs to be closed, I think about using like a Empty GO for setting the area, but idk yet.
 3. Added The Character Eyes that follow the cursor. Script was written by AI, because it's just a raw test script, i need to simplify it and make it smoother.
 ![Main Menu Redesign](Documentation/Screenshots/Buddle_Main_Menu%20Mockup.png)
+
+## (19. November)
+1. Added moving Clouds 
