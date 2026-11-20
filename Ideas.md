@@ -1,0 +1,1 @@
+﻿1. Main Menu stuff should slide away when a new menu comes up. So the Button should sweep away when Play Menu is opened
