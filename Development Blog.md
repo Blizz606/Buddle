@@ -27,3 +27,7 @@ Today I redesigned the assets/art in figma. I want the walk aniamtion to acutual
 
 ## (19. November)
 1. Added moving Clouds 
+
+## (20. November)
+1. I designed the Play Menu, so when you hit play, this menu should pop up. I'm pretty satified with the result, but the BG colour of the panel isn't that good yet. I will now implement everything into unity. (Btw hearing "I Kissed a Girl" on the side, another banger....)
+   ![Main Menu](Documentation/Screenshots/Play_Menu.png)
