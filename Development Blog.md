@@ -30,4 +30,5 @@ Today I redesigned the assets/art in figma. I want the walk aniamtion to acutual
 
 ## (20. November)
 1. I designed the Play Menu, so when you hit play, this menu should pop up. I'm pretty satified with the result, but the BG colour of the panel isn't that good yet. I will now implement everything into unity. (Btw hearing "I Kissed a Girl" on the side, another banger....)
+2. I added smooth aniamtions for the main UI, AI helped me with this, because again it's just a mockup. But now I will really implement the Game itself I think.
    ![Main Menu](Documentation/Screenshots/Play_Menu.png)
